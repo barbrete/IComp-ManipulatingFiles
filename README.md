@@ -19,11 +19,8 @@ Desenvolver uma solução que:
 | Descrição      | Quantidade | Mês da Aquisição | Valor    | Colaborador | Quilometragem Inicial | Quilometragem Final | Data de Retirada | Data de Devolução |
 |----------------|------------|------------------|----------|-------------|----------------------|--------------------|------------------|-------------------|
 | FIAT Uno       | 1          | 04/2025          | 65000.00 | João        | 12000                | 12500              | 10/08/2025       | 10/08/2025        |
-| ...            | ...        | ...              | ...      | ...         | ...                  | ...                | ...              | ...               |
 
-## Como os dados foram criados
 
-Os dados foram gerados com auxílio de uma IA generativa, garantindo variedade e realismo para os testes. Foram criados 10 registros de veículos, cada um com informações completas.
 
 ## Passos do Projeto
 
@@ -34,8 +31,8 @@ Os dados foram gerados com auxílio de uma IA generativa, garantindo variedade e
    O arquivo CSV é carregado em um DataFrame do pandas para facilitar a manipulação e análise.
 
 3. **Apresentação dos resultados:**  
-   - Exibição das primeiras linhas da tabela.
-   - Exibição do item mais caro e mais barato, com nome/descrição e valor.
+   - Exibição da tabela e das primeiras 5 linhas.
+   - Exibição do carro mais caro e mais barato, com nome/descrição e valor.
    - Cálculo e exibição da média e mediana dos valores dos veículos.
 
 ## Resultados Esperados
