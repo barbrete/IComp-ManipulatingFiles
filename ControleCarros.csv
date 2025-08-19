@@ -1,0 +1,11 @@
+Descricao,placa,Quantidade,Mes da Aquisicao,Valor,Colaborador,Observacoes,Quilometragem Inicial,Quilometragem Final,Periodo de Uso,Data de Retirada,Data de Devolucao
+FIAT Uno,FSAA-2213,1,04/2025,65000.0,Joao,Uso comercial,12000,12500,08:00-18:00,10/08/2025,10/08/2025
+FIAT Uno,FSAA-2214,1,04/2025,65500.0,Maria,Uso comercial,13000,13400,09:00-17:00,11/08/2025,11/08/2025
+Ford Ka,GHTY-9987,1,03/2024,47000.0,Carlos,Uso misto,5000,5400,07:00-19:00,12/08/2025,12/08/2025
+Ford Ka,GHTY-9988,1,03/2024,47500.0,Ana,Uso comercial,6000,6100,08:00-18:00,13/08/2025,13/08/2025
+Chevrolet Onix,QWER-1234,1,12/2023,55000.0,Pedro,Uso comercial,8000,8300,08:00-18:00,14/08/2025,14/08/2025
+Chevrolet Onix,QWER-1235,1,12/2023,56000.0,Lucas,Uso comercial,9000,9200,08:00-18:00,15/08/2025,15/08/2025
+Toyota Etios,TYUI-3456,1,02/2024,60000.0,Fernanda,Uso comercial,7000,7300,08:00-18:00,16/08/2025,16/08/2025
+Toyota Etios,TYUI-3457,1,02/2024,61000.0,Bruno,Uso comercial,8000,8200,08:00-18:00,17/08/2025,17/08/2025
+Honda Fit,ASDF-7890,1,07/2025,70000.0,Juliana,Uso comercial,4000,4200,08:00-18:00,18/08/2025,18/08/2025
+Honda Fit,ASDF-7891,1,07/2025,71000.0,Rafael,Uso comercial,5000,5300,08:00-18:00,19/08/2025,19/08/2025
